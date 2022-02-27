@@ -17,7 +17,7 @@ header p{
     width: 100px;
     height: 83.88px;
     color: red;
-    background-color: blue;
+    background-color: #ff910081;
 }
 
 #goToHome:hover{
@@ -54,11 +54,11 @@ main{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     margin-top: 200px;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 255);
     display: inline-block;
     width: 350px;
     font-size: 50px;
-    text-align: center;
+    text-align: left;
 }
 
 main section figure{
@@ -149,7 +149,7 @@ header{
     width: 100%;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    background-color: rgb(49, 50, 50);
+    background-color: #ff910081;
     color: black;
 }
 
